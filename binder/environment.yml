@@ -1,0 +1,9 @@
+name: shenfun
+channels:
+  - conda-forge
+dependencies:
+  - shenfun
+  - matplotlib
+  - pip
+  - pip:
+    - nbgitpuller
